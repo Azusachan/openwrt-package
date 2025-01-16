@@ -5,12 +5,10 @@ Jerry's openwrt-package
 包含了 如下应用
 - Argon 主题
 - Argon 主题配置应用
-- go-aliyundrive-webdav 阿里云盘webdav的golang实现
-- lua-maxminddb lua版本的maxminddb ip库解析器
 
 ## 使用方法
 
-添加 src-git jerryk https://github.com/jerrykuku/openwrt-package 到 OpenWRT源码根目录feeds.conf.default文件
+添加 `src-git an https://github.com/Azusachan/openwrt-package.git`到 OpenWRT源码根目录feeds.conf.default文件
 
 然后执行
 
